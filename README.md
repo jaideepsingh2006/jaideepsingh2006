@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaideepsingh2006
 - 👀 I’m interested in web developement and DSA
 - 🌱 I’m currently learning java script and c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development
 - 📫  reach me by using gmail;jaideepsinghrathore610@gmail.com
 - 😄 Pronouns: jai 
 - i am also a farmer
